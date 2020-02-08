@@ -3,7 +3,7 @@ html{
 }
 
 body{
-  background-color: black;
+  background-color: #ddd;
   font-size: 18px;
   margin: 0;
   padding: 0;
@@ -86,6 +86,7 @@ nav{
 }
 
 header{
+  background-color:black;
   background-attachment: fixed; /* Parallax effect */     
   background-position: center;  /* Parallax effect */
   background-repeat: no-repeat; /* Parallax effect */
